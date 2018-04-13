@@ -5,6 +5,8 @@
 # E-mail  :  swolf.qu@gmail.com
 # Date    :  2018-04-13 18:17:47
 """
+    https://leetcode.com/problems/two-sum/description/
+
     Given an array of integers, return indices of the two numbers such that
 they add up to a specific target.
 
